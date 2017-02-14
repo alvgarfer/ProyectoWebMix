@@ -1,4 +1,7 @@
-package proyectoweb;
+package servicios;
+
+import dto.PatologiaDTO;
+import proyectoweb.PatologiaDAO;
 
 public class PatologiaService
 {

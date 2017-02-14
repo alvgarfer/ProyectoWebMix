@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import proyectoweb.PatologiaService;
+import servicios.PatologiaService;
 
 /**
  * Servlet implementation class BuscarPatologia

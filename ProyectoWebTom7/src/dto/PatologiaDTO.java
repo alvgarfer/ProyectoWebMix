@@ -1,4 +1,4 @@
-package proyectoweb;
+package dto;
 
 
 import java.util.List;

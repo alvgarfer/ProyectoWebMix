@@ -1,5 +1,7 @@
 package proyectoweb;
 
+import dto.PatologiaDTO;
+
 public class PatologiaDAO
 {
 	PatologiaDTO getPalogiaPorID (int id_patologia)

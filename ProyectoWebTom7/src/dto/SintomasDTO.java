@@ -1,4 +1,4 @@
-package proyectoweb;
+package dto;
 
 public class SintomasDTO
 {	
