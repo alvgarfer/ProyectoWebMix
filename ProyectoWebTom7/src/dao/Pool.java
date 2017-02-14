@@ -12,7 +12,6 @@ import javax.sql.DataSource;
 public class Pool
 {
 	private static final String fuente = "java:comp/env/jdbc/pool";
-	//private static final Logger log = LogManager.getRootLogger();
 	private static DataSource fuenteDatos = null;;
 	private static final Pool pool = new Pool ();
 	
