@@ -3,7 +3,7 @@ import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.Session;
 
 
-public class conexionssh
+public class ConexionSsh
 {
 	private final static String S_PATH_FILE_PRIVATE_KEY = "C:\\Users\\Alvaro\\git\\ProyectoWebTom7\\id_rsa.ppk";
 	private final static String S_PATH_FILE_KNOWN_HOSTS = "C:\\Users\\Alvaro\\git\\ProyectoWebTom7\\known_hosts";
