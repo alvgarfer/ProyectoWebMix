@@ -1,7 +1,7 @@
 package servicios;
 
+import dao.PatologiaDAO;
 import dto.PatologiaDTO;
-import proyectoweb.PatologiaDAO;
 
 public class PatologiaService
 {

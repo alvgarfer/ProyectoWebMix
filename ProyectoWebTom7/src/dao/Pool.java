@@ -17,12 +17,11 @@ public class Pool
 	private static final Pool pool = new Pool ();
 	
 	
-	
 	public static Pool getInstance ()
 	{
 		return pool;
 	}
-	
+	// singleton
 	private Pool ()
 	{
 		fuenteDatos = iniciarFuente();

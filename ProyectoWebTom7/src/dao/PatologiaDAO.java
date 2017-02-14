@@ -1,4 +1,4 @@
-package proyectoweb;
+package dao;
 
 import dto.PatologiaDTO;
 
