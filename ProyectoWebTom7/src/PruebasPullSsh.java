@@ -17,14 +17,14 @@ import dao.Pool;
  * Servlet implementation class pruebapullssh
  */
 @WebServlet("/pruebapullssh")
-public class pruebapullssh extends HttpServlet 
+public class PruebasPullSsh extends HttpServlet 
 {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public pruebapullssh()
+    public PruebasPullSsh()
     {
         super();
     }
